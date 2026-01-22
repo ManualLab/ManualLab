@@ -2,7 +2,7 @@
 
 ### 🏗️ Building clean, fast web apps for businesses that move quickly.
 
-Computer Science student building functional web products. Currently running FlowState Studios making the web move a bit faster.
+I build web apps and digital systems that solve real problems. Based in Benin City.
 ---
 
 ### 🛠️ Tech Stack & Arsenal
